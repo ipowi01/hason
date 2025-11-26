@@ -2,7 +2,10 @@
 <!-- csak lowkey olvass el twin !-->
 Stack-based Forth-like language (in C)
 ## TODO:
-### implement functions<br>
+
+### variables
+- fetch, store
+### implement functions
 - aschar -> pops/pushes a number as a character
   - (later: strings)
 - basic stack functions:
